@@ -1,2 +1,2 @@
-# Modified_Strassen
+# Modified Strassen
 Implementing a modified strassen algorithm in C++
